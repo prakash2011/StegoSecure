@@ -33,24 +33,9 @@ Installation & Setup
 5. Run the Decryption Script
 
     python decrypt.py
-   Result Screenshot:
-   
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
 
-
-
-
-
-
-
-
-
-
+Result Screenshot:
+ ![Picture6](https://github.com/user-attachments/assets/cf7c9f8f-82c6-4e1b-ac48-c33297d5095b)
+![Picture3](https://github.com/user-attachments/assets/69117868-5d8e-4cb0-8d79-b669f0b0578c)
+![Picture2](https://github.com/user-attachments/assets/5ebe8e41-0244-4f2c-9aeb-15bc3c156f2f)
 
