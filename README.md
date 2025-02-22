@@ -20,9 +20,10 @@ Installation & Setup
 1. Clone the Repository  
    
    git clone https://github.com/prakash2011/StegoSecure.git
+
    cd Secure-Steganography
 
-2. Install Dependencies
+3. Install Dependencies
 
    pip install -r requirements.txt
    
