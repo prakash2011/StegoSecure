@@ -19,7 +19,7 @@ Features
 Installation & Setup  
 1. Clone the Repository  
    
-   git clone https://github.com//Secure-Steganography.git
+   git clone https://github.com/prakash2011/StegoSecure.git
    cd Secure-Steganography
 
 2. Install Dependencies
